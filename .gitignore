@@ -21,3 +21,24 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/java/saddle-points/build/
+/java/run-length-encoding/build/
+/java/atbash-cipher/build/
+/java/flatten-array/build/
+/java/clock/build/
+/java/zebra-puzzle/.gradle/
+/java/word-count/build/
+/java/kindergarten-garden/build/
+/java/matching-brackets/build/
+/java/robot-name/.gradle/
+/java/robot-name/build/
+/java/etl/.gradle/
+/java/etl/build/
+/java/grade-school/.gradle/
+/java/grade-school/build/
+/java/binary-search/.gradle/
+/java/binary-search/build/
+/java/ocr-numbers/.gradle/
+/java/bank-account/build/
+/java/binary-search-tree/.gradle/
+/java/binary-search-tree/build/
